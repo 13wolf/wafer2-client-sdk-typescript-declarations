@@ -15,3 +15,5 @@
 
    `var qcloud = require('./node_modules/wafer2-client-sdk/index.js');`
 5. 由于小程序不支持直接引用
+
+## 声明：本人刚刚开始了解TypeScript，水平有限，有错误请指正
